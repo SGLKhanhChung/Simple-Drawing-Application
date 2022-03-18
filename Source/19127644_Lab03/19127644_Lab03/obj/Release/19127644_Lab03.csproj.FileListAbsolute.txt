@@ -1,0 +1,17 @@
+C:\Users\Jennie\Documents\Lab03 - DHMT\19127644_Lab03\19127644_Lab03\bin\Release\19127644_Lab03.exe.config
+C:\Users\Jennie\Documents\Lab03 - DHMT\19127644_Lab03\19127644_Lab03\bin\Release\19127644_Lab03.exe
+C:\Users\Jennie\Documents\Lab03 - DHMT\19127644_Lab03\19127644_Lab03\bin\Release\19127644_Lab03.pdb
+C:\Users\Jennie\Documents\Lab03 - DHMT\19127644_Lab03\19127644_Lab03\bin\Release\SharpGL.dll
+C:\Users\Jennie\Documents\Lab03 - DHMT\19127644_Lab03\19127644_Lab03\bin\Release\SharpGL.SceneGraph.dll
+C:\Users\Jennie\Documents\Lab03 - DHMT\19127644_Lab03\19127644_Lab03\bin\Release\SharpGL.WinForms.dll
+C:\Users\Jennie\Documents\Lab03 - DHMT\19127644_Lab03\19127644_Lab03\bin\Release\System.Drawing.Common.dll
+C:\Users\Jennie\Documents\Lab03 - DHMT\19127644_Lab03\19127644_Lab03\bin\Release\SharpGL.xml
+C:\Users\Jennie\Documents\Lab03 - DHMT\19127644_Lab03\19127644_Lab03\bin\Release\SharpGL.SceneGraph.xml
+C:\Users\Jennie\Documents\Lab03 - DHMT\19127644_Lab03\19127644_Lab03\bin\Release\SharpGL.WinForms.xml
+C:\Users\Jennie\Documents\Lab03 - DHMT\19127644_Lab03\19127644_Lab03\obj\Release\_19127644_Lab03.Form1.resources
+C:\Users\Jennie\Documents\Lab03 - DHMT\19127644_Lab03\19127644_Lab03\obj\Release\_19127644_Lab03.Properties.Resources.resources
+C:\Users\Jennie\Documents\Lab03 - DHMT\19127644_Lab03\19127644_Lab03\obj\Release\19127644_Lab03.csproj.GenerateResource.cache
+C:\Users\Jennie\Documents\Lab03 - DHMT\19127644_Lab03\19127644_Lab03\obj\Release\19127644_Lab03.csproj.CoreCompileInputs.cache
+C:\Users\Jennie\Documents\Lab03 - DHMT\19127644_Lab03\19127644_Lab03\obj\Release\19127644_Lab03.csproj.CopyComplete
+C:\Users\Jennie\Documents\Lab03 - DHMT\19127644_Lab03\19127644_Lab03\obj\Release\19127644_Lab03.exe
+C:\Users\Jennie\Documents\Lab03 - DHMT\19127644_Lab03\19127644_Lab03\obj\Release\19127644_Lab03.pdb
