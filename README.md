@@ -2,7 +2,7 @@
  This project users can draw some simple sharps (line, square, circle,….),  move/rotate sharps, resize and fill colors. This project I code by C# and use OpenGL/SharpGL.
  
 # Installation and How to use
-- Go to this page [Wikipedia](www.opengl.org/wiki/Getting_Started) to update the latest screen driver for 
+- Go to this page [Wikipedia]([www.opengl.org/wiki/Getting_Started](https://www.khronos.org/opengl/wiki/Getting_Started)) to update the latest screen driver for 
 each operating system. After the update is complete, you will get the latest version of 
 OpenGL library.
 - Go to folder <b>"SharpGL.WinForms"</b> to get SharpGL library (dll library files)
